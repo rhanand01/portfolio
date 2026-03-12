@@ -6,7 +6,7 @@ import {
   Terminal, Cpu, Star, ArrowUpRight, Sparkles
 } from 'lucide-react';
 import { ImageWithFallback } from './components/figma/ImageWithFallback';
-import profilePhoto from 'figma:asset/935508db6244888c0d17e317aac4bb6797184390.png';
+import profilePhoto from '@/assets/logo.png';
 
 const PROFILE_IMG = profilePhoto;
 
